@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.660def4b.chunk.css",
-    "main.js": "/static/js/main.993951d0.chunk.js",
-    "main.js.map": "/static/js/main.993951d0.chunk.js.map",
+    "main.js": "/static/js/main.9a234f76.chunk.js",
+    "main.js.map": "/static/js/main.9a234f76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1703000c.js",
     "runtime-main.js.map": "/static/js/runtime-main.1703000c.js.map",
     "static/css/2.786ae0dd.chunk.css": "/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.719f751d.chunk.js": "/static/js/2.719f751d.chunk.js",
-    "static/js/2.719f751d.chunk.js.map": "/static/js/2.719f751d.chunk.js.map",
+    "static/js/2.761098b1.chunk.js": "/static/js/2.761098b1.chunk.js",
+    "static/js/2.761098b1.chunk.js.map": "/static/js/2.761098b1.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.786ae0dd.chunk.css.map": "/static/css/2.786ae0dd.chunk.css.map",
     "static/css/main.660def4b.chunk.css.map": "/static/css/main.660def4b.chunk.css.map",
-    "static/js/2.719f751d.chunk.js.LICENSE.txt": "/static/js/2.719f751d.chunk.js.LICENSE.txt",
+    "static/js/2.761098b1.chunk.js.LICENSE.txt": "/static/js/2.761098b1.chunk.js.LICENSE.txt",
     "static/media/2018-1.a8e79deb.jpg": "/static/media/2018-1.a8e79deb.jpg",
     "static/media/2018-10.39cb42bb.jpg": "/static/media/2018-10.39cb42bb.jpg",
     "static/media/2018-11.b7ccd31b.jpg": "/static/media/2018-11.b7ccd31b.jpg",
@@ -51,6 +51,7 @@
     "static/media/blackwood-min.2d89f50a.jpg": "/static/media/blackwood-min.2d89f50a.jpg",
     "static/media/kir-min.b248da72.jpg": "/static/media/kir-min.b248da72.jpg",
     "static/media/krieg-min.d049ff02.jpg": "/static/media/krieg-min.d049ff02.jpg",
+    "static/media/logo.65c27604.svg": "/static/media/logo.65c27604.svg",
     "static/media/media-min.c748f6f0.jpg": "/static/media/media-min.c748f6f0.jpg",
     "static/media/members-min.f9bcb2b8.jpg": "/static/media/members-min.f9bcb2b8.jpg",
     "static/media/neal-min.9b7ce8c8.jpg": "/static/media/neal-min.9b7ce8c8.jpg",
@@ -68,8 +69,8 @@
   "entrypoints": [
     "static/js/runtime-main.1703000c.js",
     "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.719f751d.chunk.js",
+    "static/js/2.761098b1.chunk.js",
     "static/css/main.660def4b.chunk.css",
-    "static/js/main.993951d0.chunk.js"
+    "static/js/main.9a234f76.chunk.js"
   ]
 }
